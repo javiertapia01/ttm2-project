@@ -1,6 +1,17 @@
 # ttm2-project
 
-Proyecto final del curso MAT2320 orientado al estudio teórico-práctico e implementación guiada del paper TTM2.
+Proyecto final del curso MAT2320 orientado al estudio teórico-práctico e implementación guiada del paper de referencia.
+## Paper de referencia
+
+Este proyecto toma como referencia principal el paper:
+
+**Sophia Tang**, *A Complete Guide to Spherical Equivariant Graph Transformers*.
+
+En este repositorio usamos el nombre corto **TTM2** para referirnos a este trabajo.
+
+Referencia principal:
+- arXiv: https://arxiv.org/abs/2512.13927v1
+- autora: Sophia Tang
 
 ## Objetivo del proyecto
 
@@ -29,3 +40,19 @@ En PowerShell:
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
+
+## Estado actual
+
+Por ahora, el repositorio cuenta con:
+
+- estructura inicial creada,
+- entorno virtual configurado,
+- primer script de prueba funcionando,
+- conexión con GitHub operativa.
+
+## Prueba mínima
+
+Para ejecutar el script inicial de prueba:
+
+```powershell
+python .\scripts\hello.py

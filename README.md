@@ -40,7 +40,7 @@ En PowerShell:
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
-
+```
 ## Estado actual
 
 Por ahora, el repositorio cuenta con:
@@ -56,3 +56,4 @@ Para ejecutar el script inicial de prueba:
 
 ```powershell
 python .\scripts\hello.py
+```
